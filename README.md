@@ -1,2 +1,2 @@
 # Python-
-Python Scripts basics to advanced level.
+Some Essential Python Scripts. 
